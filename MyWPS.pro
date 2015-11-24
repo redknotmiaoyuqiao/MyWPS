@@ -5,3 +5,6 @@ CONFIG -= qt
 
 SOURCES += main.c
 
+HEADERS += \
+    xml/xml.h
+
