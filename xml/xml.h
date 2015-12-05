@@ -12,3 +12,6 @@ typedef struct xml_attr
     char * name;
     char * content;
 } xml_attr;
+
+
+void * createXml(char * xml);
